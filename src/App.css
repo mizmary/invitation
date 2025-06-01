@@ -6,7 +6,12 @@ body{
   position: relative;
   width: 100%;
   min-height: 100vh;
-  overflow-x: hidden;
+  height: 5200px;
+  overflow: hidden;
+  background-image: url('/background.svg');
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-size: 111% auto;
 }
 
 .bg{
