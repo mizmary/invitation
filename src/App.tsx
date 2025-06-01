@@ -5,7 +5,7 @@ function App() {
 
   return (
   <div className='container'>
-    <img src="/testBg.svg" className='bg'/>
+    <img src="/testBg2.svg" className='bg'/>
   </div>
   )
 }
