@@ -1,8 +1,5 @@
 
 import './App.css'
-import main from './assets/main.png'
-import textureFirst from './assets/second.svg'
-import bg from './assets/bg.svg'
 import background from './assets/background.svg'
 
 
