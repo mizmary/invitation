@@ -2,6 +2,15 @@ body{
   background-color: #ADA092;
 }
 
+@font-face {
+  font-family: 'Classica Two';
+  src: url('/fonts/ClassicaTwo.woff2') format('woff2'),
+       url('/fonts/ClassicaTwo.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 .container{
   position: relative;
   width: 100%;
@@ -23,8 +32,6 @@ body{
 
 .title{
   font-family: "Classica Two", serif;
-  src: url('/fonts/Classica two.woff') format('woff'),
-        url('/fonts/Classica two.woff2') format('woff2');
   font-size: 48px;
   line-height: 180%;
   color: #FFFDFB;
